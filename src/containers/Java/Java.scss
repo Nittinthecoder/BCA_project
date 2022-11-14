@@ -1,0 +1,53 @@
+.app__card{
+    background: #B2B2B2;
+    position: absolute;
+    left: 2.5rem;
+    top: 15rem;
+    border-radius: 2.2rem;
+    box-shadow: 0rem 0rem 2rem .3rem;
+    overflow: hidden;
+    width: 20rem;
+    height: 20rem;
+    padding: 1rem;
+
+    img {
+        position: absolute;
+        left: 4.5rem; 
+        width: 13rem;
+        height: 12rem;
+        border-radius: 10rem;
+    }
+}
+
+.app__body-body {
+    position: absolute;
+    top: 10rem;
+    
+    .title{
+        color: red;
+        position: relative;
+        top: 3rem;
+        left: 6.2rem;
+    }
+
+    .text {
+        color: red;
+        position: relative;
+        top: 4rem;
+    }
+
+    .btn1, .btn2, .btn3, .btn4, .btn5 {
+        position: relative;
+        top: 5rem;
+        left: 1rem;
+    }
+
+
+
+    
+}
+
+
+
+
+
